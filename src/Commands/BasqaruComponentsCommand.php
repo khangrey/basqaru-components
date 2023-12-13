@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Khangrey\BasqaruComponents\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class BasqaruComponentsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'basqaru-components';
 
     public $description = 'My command';
 
