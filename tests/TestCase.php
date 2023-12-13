@@ -3,8 +3,8 @@
 namespace Khangrey\BasqaruComponents\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Khangrey\BasqaruComponents\BasqaruComponentsServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

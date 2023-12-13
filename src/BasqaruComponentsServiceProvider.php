@@ -2,9 +2,9 @@
 
 namespace Khangrey\BasqaruComponents;
 
+use Khangrey\BasqaruComponents\Commands\BasqaruComponentsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Khangrey\BasqaruComponents\Commands\BasqaruComponentsCommand;
 
 class BasqaruComponentsServiceProvider extends PackageServiceProvider
 {
